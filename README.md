@@ -9,7 +9,7 @@ and ability to work under pressure to any role. I am now looking for a Data Scie
 - Programming: SQL, Python, R
 - Other software and platforms: Tableau, SPSS, KNIME, Databricks, Excel, Microsoft Dynamics (CRM), Visual Studio Code
 ### Projects
-Please refer to my [Portfolio Guide](https://github.com/filsoch/Portfolio-guide/blob/main/README.md) to see examples of my work
+Please refer to my [Portfolio Guide](https://github.com/filsoch/Portfolio-guide/blob/main/README.md) to see examples of my data science projects
 
 <!---
 filsoch/filsoch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
