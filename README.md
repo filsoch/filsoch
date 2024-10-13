@@ -5,7 +5,7 @@ My academic foundation is complemented by a BA in Business and Marketing from Co
 where I developed my soft-skills and gained strong insight into business principles. With a diverse professional background,
 including roles such as Credit Controller, Data Entry Clerk, and CSR, I bring attention to detail, problem solving skills, communication skills,
 and ability to work under pressure to any role. I am now looking for a Data Science role that would allow me to apply and further develop my skillset.
-### Tools
+### Skills
 - Programming: SQL, Python, R
 - Other software and platforms: Tableau, SPSS, KNIME, Databricks, Excel, Microsoft Dynamics (CRM), Visual Studio Code
 ### Projects
