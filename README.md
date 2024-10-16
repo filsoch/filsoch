@@ -5,7 +5,7 @@ My academic foundation is complemented by a BA in Business and Marketing from Co
 where I developed my soft-skills and gained strong insight into business principles and business intelligence. 
 ### Skills
 - :computer: Programming: SQL, Python, R
-- :chart_with_upwards_trend: Other software and platforms: Tableau, SPSS, KNIME, Databricks, Excel, Microsoft Dynamics (CRM), Visual Studio Code, RStudio, AWS, Oracle, MongoDB
+- :chart_with_upwards_trend: Other software and platforms: Tableau, SPSS, KNIME, Databricks, Excel, Microsoft Dynamics (CRM), Visual Studio Code, RStudio, AWS, Oracle, MongoDB, Jupyter Notebooks
 ### Projects
 - :bar_chart: Please refer to my [Portfolio Guide](https://github.com/filsoch/Portfolio-guide/blob/main/README.md) to see examples of my data science projects.
 
